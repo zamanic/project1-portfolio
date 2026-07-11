@@ -25,15 +25,30 @@
             <img src="./assets/logo.png" alt="DevConf 2026" />
           </a>
 
-          <ul class="nav-links">
-            <li><a href="#speakers">Speakers</a></li>
-            <li><a href="#schedule">Schedule</a></li>
-            <li><a href="#tracks">Tracks</a></li>
-            <li><a href="#venue">Venue</a></li>
-            <li><a href="#blog">Blog</a></li>
-          </ul>
+          <input class="nav-toggle" type="checkbox" id="nav-toggle" />
+          <label
+            class="nav-toggle-label"
+            for="nav-toggle"
+            aria-label="Open navigation menu"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </label>
 
-          <a class="button button--primary" href="#pricing">Register Now</a>
+          <div class="nav-panel">
+            <ul class="nav-links">
+              <li><a href="#speakers">Speakers</a></li>
+              <li><a href="#schedule">Schedule</a></li>
+              <li><a href="#tracks">Tracks</a></li>
+              <li><a href="#venue">Venue</a></li>
+              <li><a href="#blog">Blog</a></li>
+            </ul>
+
+            <a class="button button--primary navbar__cta" href="#pricing"
+              >Register Now</a
+            >
+          </div>
         </nav>
 
         <section class="hero__copy" id="top">
