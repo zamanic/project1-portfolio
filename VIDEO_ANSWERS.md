@@ -1,5 +1,7 @@
 ## Video Answer Notes
 
+These are short, natural answers you can read and slightly personalize in your own voice.
+
 ### 1. What is the difference between a `<div>` and a `<span>`? When would you use each?
 
 `<div>` is a block-level element, so it usually starts on a new line and is used to group bigger sections or layout parts of a page.  
@@ -23,7 +25,7 @@ So from inside to outside, it goes: content, padding, border, and margin.
 A `class` is reusable. You can give the same class to many elements.  
 An `id` is unique and should only be used once on a page.
 
-I use a `class` for styling repeated items like buttons, cards, or sections. I use an `id` when I need a unique target, like a section link for navigation or one specific element.
+I use a `class` for styling repeated items like buttons, cards, or sections. I use an `id` when I need a unique target, like a section link for navigation or one specific element on the page.
 
 ### 4. What is Flexbox, and what's the difference between `justify-content` and `align-items`?
 

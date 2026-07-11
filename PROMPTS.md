@@ -1,5 +1,7 @@
 ## AI Prompt for the Placeholder Section
 
+This prompt is intended only for the extra AI placeholder section required in the assignment.
+
 Use this prompt to generate only the extra placeholder section for the DevConf 2026 assignment:
 
 ```text
