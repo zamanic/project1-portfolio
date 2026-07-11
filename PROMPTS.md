@@ -2,7 +2,7 @@
 
 This prompt is intended only for the extra AI placeholder section required in the assignment.
 
-Use this prompt to generate only the extra placeholder section for the DevConf 2026 assignment:
+This is the prompt to generate only the extra placeholder section for the DevConf 2026 assignment:
 
 ```text
 Create one original landing-page section for a DevConf 2026 conference website using only HTML and CSS styling ideas, with no JavaScript. The section must feel premium, modern, and consistent with a dark tech-conference theme that already includes a hero banner, speaker cards, pricing cards, and footer.
